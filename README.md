@@ -7,7 +7,7 @@ My name is [Sparsh Samir](https://sparshsamir1993.github.io/onlineresume/) and I
   <img align="left" alt="Sparhs Samir | Linkedin" width="20px" src="/assets/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/sparsh.samir/" target="_blank">
-  <img align="left" alt="Sparhs Samir | Facebook" width="20px" src="/assets/linkedin.png" />
+  <img align="left" alt="Sparhs Samir | Facebook" width="20px" src="/assets/facebook.png" />
 </a>
 
 <br/>
@@ -26,6 +26,11 @@ My name is [Sparsh Samir](https://sparshsamir1993.github.io/onlineresume/) and I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+
+- 🔭 I’m currently working on [Covid Management Android App](https://github.com/sparshsamir1993/covid-management-android)
+- 🌱 I’m currently learning Kotlin <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> , React Native <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+
 
 
 
