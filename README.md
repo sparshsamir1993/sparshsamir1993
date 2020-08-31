@@ -1,14 +1,9 @@
 # **Hello, visitor** :sunglasses: :wave:
 ![Online Resume - Animated gif](onlineresume.gif)
 ### My name is [Sparsh Samir](https://sparshsamir1993.github.io/onlineresume/) and I am a Full Stack Developer. I currently live in Waterloo, Canada :canada: 
+
 <a href="https://www.linkedin.com/in/sparsh-samir/">
-  <img align="left" alt="Sparhs Samir | Linkedin" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Sparhs Samir | Linkedin" width="20px" src="/assets/linkedin.png" />
 </a>
 
 ## **Checkout my stats**
