@@ -1,6 +1,6 @@
 # **Hello, visitor** :sunglasses: :wave:
 #### Lovely to see you here.  Fancy a drink ? :tropical_drink:
-![Online Resume - Animated gif](onlineresume.gif)
+![Online Resume - Animated gif](https://raw.githubusercontent.com/sparshsamir1993/sparshsamir1993/master/onlineresume.gif)
 
 My name is [Sparsh Samir](https://sparshsamir1993.github.io/onlineresume/) and I am a Full Stack Developer.
 
