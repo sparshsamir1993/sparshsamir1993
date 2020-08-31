@@ -1,7 +1,10 @@
 # **Hello, visitor** :sunglasses: :wave:
+#### Lovely to see you here.  Fancy a drink ? :tropical_drink:
 ![Online Resume - Animated gif](onlineresume.gif)
 
-My name is [Sparsh Samir](https://sparshsamir1993.github.io/onlineresume/) and I am a Full Stack Developer. I currently live in Waterloo, Canada :canada: 
+My name is [Sparsh Samir](https://sparshsamir1993.github.io/onlineresume/) and I am a Full Stack Developer.
+
+I currently live in Waterloo, Canada :canada: 
 
 <a href="https://www.linkedin.com/in/sparsh-samir/" target="_blank">
   <img align="left" alt="Sparhs Samir | Linkedin" width="20px" src="/assets/linkedin.png" />
